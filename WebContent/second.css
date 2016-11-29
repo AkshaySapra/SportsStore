@@ -1,0 +1,47 @@
+.nav a{
+	color: #5a5a5a
+	font-size: 11px;
+	font-weight: bold;
+	padding-top: 14px;
+	padding-bottom: 14px;
+	padding-left: 10px;
+	padding-rigt: 10px;
+	text-transform: uppercase;
+}
+
+.learn-more{
+	background-color:#f7f7f7;
+}
+
+.learn-more h3{
+	font-family: 'Shift', sans-serif;
+	font-size: 18px;
+	font-weight: bold	
+}
+
+.learn-more a{
+	color: #00b0ff
+}
+
+.nav li{
+	display:inline;
+}
+
+.pict{
+	height: 500px;
+	background-image:url("HappyChildLabourForce.jpg");
+	background-repeat:no-repeat;
+	background-size:no-cover;
+	background-size: 800px 500px;
+	background-position: center; 
+}
+
+.intro{
+	color: #707070;
+}
+
+.intro p{
+	font-family: 'Shift', sans-serif;
+	font-size: 18px;
+	line-height: 200%;
+}
